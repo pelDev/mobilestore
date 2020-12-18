@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shrine 2</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="menu_action_search">Search</string>
+    <string name="menu_action_filter">Filter</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_description">Description</string>
+    <string name="featured_label">Featured</string>
+    <string name="apartment_label">Apartment</string>
+    <string name="accessories_label">Accessories</string>
+    <string name="shoes_label">Shoes</string>
+    <string name="tops_label">Tops</string>
+    <string name="bottoms_label">Bottoms</string>
+    <string name="dresses_label">Dresses</string>
+    <string name="account_label">Account</string>
+</resources>
